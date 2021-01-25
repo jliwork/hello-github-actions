@@ -1,8 +1,1 @@
-void
-f()
-{
-    someFunction();
-    if (true, false) {
-        f();
-    }
-}
+int x = 1;
